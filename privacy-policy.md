@@ -19,6 +19,17 @@ This Services does not uses these “cookies” explicitly. However, the app may
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
+### Work Place Policy
+At Padocare, our workplace policy prioritizes inclusivity, respect, and innovation. We foster a culture of collaboration, open communication, and continuous learning. 
+Our values drive our actions: 
+- Embrace diversity and individuality
+- Support work-life balance
+- Encourage creativity and experimentation
+- Practice transparency and accountability
+- Foster a sense of community and teamwork
+
+Join us in shaping the future of care management with a workplace culture that cares.
+
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
